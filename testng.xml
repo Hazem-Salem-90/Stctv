@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Google Test Suite" >
+ 	<listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+    
+    <test name="Google">
+        <classes>
+            <class name="Run_TED"/>
+        </classes>
+    </test>
+</suite>

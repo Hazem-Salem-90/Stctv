@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T14:30:20 AST" name="Default suite" finished-at="2023-03-29T14:30:24 AST" duration-ms="4295">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T14:30:20 AST" name="Default test" finished-at="2023-03-29T14:30:24 AST" duration-ms="4295">
+      <class name="Tests.Run_TestOne">
+        <test-method is-config="true" signature="Intilize()[pri:0, instance:Tests.Run_TestOne@581ac8a8]" started-at="2023-03-29T14:29:54 AST" name="Intilize" finished-at="2023-03-29T14:30:20 AST" duration-ms="25649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Intilize -->
+        <test-method signature="stctv_Cases()[pri:0, instance:Tests.Run_TestOne@581ac8a8]" started-at="2023-03-29T14:30:20 AST" name="stctv_Cases" finished-at="2023-03-29T14:30:24 AST" duration-ms="4259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stctv_Cases -->
+        <test-method is-config="true" signature="teerDownTest()[pri:0, instance:Tests.Run_TestOne@581ac8a8]" started-at="2023-03-29T14:30:24 AST" name="teerDownTest" finished-at="2023-03-29T14:30:24 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teerDownTest -->
+      </class> <!-- Tests.Run_TestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
